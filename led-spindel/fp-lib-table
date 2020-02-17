@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name led-spindel-footprints)(type KiCad)(uri ${KIPRJMOD}/led-spindel-footprints.pretty)(options "")(descr ""))
+)
